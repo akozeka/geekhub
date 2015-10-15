@@ -1,0 +1,12 @@
+{
+    "name": "developer/lesson02",
+    "require": {
+        "brick/math": "^0.5.2"
+    },
+    "authors": [
+        {
+            "name": "Alexey Kozeka",
+            "email": "kozeka.alex@gmail.com"
+        }
+    ]
+}
