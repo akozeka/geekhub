@@ -1,3 +1,3 @@
 <?php
 
-echo 'It works!!!';
+echo 'Feature added';
