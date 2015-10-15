@@ -1,7 +1,9 @@
 {
     "name": "developer/lesson02",
     "require": {
-        "brick/math": "^0.5.2"
+        "brick/math": "^0.5.2",
+        "symfony/yaml": "^2.7",
+        "symfony/filesystem": "^2.7"
     },
     "authors": [
         {
