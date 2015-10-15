@@ -1,3 +1,4 @@
 <?php
 
-echo 'Feature added';
+echo 'Feature';
+echo 'Feature2!';
