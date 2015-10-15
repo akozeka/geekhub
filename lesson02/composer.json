@@ -1,5 +1,5 @@
 {
-    "name": "developer/lesson02",
+    "name": "geekhub/lesson02",
     "require": {
         "brick/math": "^0.5.2",
         "symfony/yaml": "^2.7",
