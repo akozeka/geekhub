@@ -10,6 +10,6 @@ Abstract simulation game where two actors (creatures) are trying to reach left e
 
 Syntax:
 -------
-$ cd lesson03
-$ composer install
-$ php src/test.php
+    $ cd lesson03
+    $ composer install
+    $ php src/test.php
