@@ -35,7 +35,7 @@ class AdvancedCreature extends Creature
         }
 
         // Otherwise try to go the right
-        if ($gameField->isMovePossible($this->x, $this->y + 1)) {
+        if ($gameField->isMovePossible($this->x+1, $this->y)) {
             return [1, 0];
         }
 
