@@ -12,4 +12,4 @@ Syntax:
 -------
     $ cd lesson03
     $ composer install
-    $ php src/test.php
+    $ php web/index.php
