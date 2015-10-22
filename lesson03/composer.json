@@ -1,0 +1,15 @@
+{
+    "name": "geekhub/lesson03",
+    "description": "Game class",
+    "authors": [
+        {
+            "name": "Alexey Kozeka",
+            "email": "kozeka.alex@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+          "Geekhub\\": "src/Geekhub"
+        }
+    }
+}
